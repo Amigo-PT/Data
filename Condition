@@ -1,0 +1,162 @@
+{
+  "Cervicogenic Headache": {
+    "Summarizing": "Head pain originating from the upper neck (C1-C3). Symptoms are caused by issues with the neck muscles and joints and are often triggered by stress, prolonged static positions, or poor posture.Symptoms include:Head pain (often unilateral)Neck stiffnessTenderness in neck musclesPain with neck movement",
+    "Prognosis": "This condition typically resolves within a few weeks with proper posture and rehabilitation.If untreated, symptoms may persist longer.",
+    "Treatment Strategy": "Treatment focuses on rehabilitation, including:Phase1 Soft tissue work (suboccipital release, self-massage, work on levator scapulae and trapezius).Phase2 Stretches and mobility drills (chin tucks, isometric holds).Phase3 Strengthening exercises with resistance training.Note Nerve blocks or surgery may be considered in severe cases."
+  },
+  "General Neck Pain & Stiffness": {
+    "Summarizing": "Neck pain and stiffness are common, affecting a large percentage of people. Often, there is no single identifiable cause, and the pain can be chronic or persistent.Symptoms include:Neck pain (may radiate to shoulders)Stiffness in neck musclesReduced range of motionTenderness in neck muscles",
+    "Prognosis": "With proper rehabilitation, the condition typically resolves in 4-6 weeks. However, untreated pain can last much longer.",
+    "Treatment Strategy": "Rehabilitation is key, focusing on soft tissue work, improving mobility, and strengthening exercises. Phase 1: Soft tissue mobilization to relieve immediate pain. Phase 2: Neck and pectoral stretches, cervical mobility drills, and isometric exercises. Phase 3: Sensorimotor control, resistance training, and postural exercises to build long-term strength. Note: If pain persists beyond 12 weeks, consider further evaluation by a specialist."
+  },
+  "Neck Strains & Sprains (Whiplash)": {
+    "Summarizing": "This condition is a muscle or joint injury caused by high-force trauma, such as a whiplash incident. It results from a sudden, forceful hyperextension or hyperflexion of the neck.Symptoms include:Neck pain (may radiate to shoulders)Stiffness in neck musclesReduced range of motionTenderness in neck muscles",
+    "Prognosis": "With proper rehabilitation, a full recovery is expected within 4-6 weeks.If untreated, symptoms may persist for months or even years.",
+    "Treatment Strategy": "Treatment focuses on rehabilitation, including soft tissue work, improving mobility, and strengthening.Phase 1: Gentle mobilization for pain relief, with a focus on the thoracic spine.Phase 2: Neck and pectoral stretches, cervical mobility drills, and isometric exercises.Phase 3: Progressive resistance training and modifying range of motion to manage any remaining pain.Note: If pain persists beyond 12 weeks, consider further evaluation by a specialist."
+  },
+  "Cervical Spondylosis (Arthritis)": {
+    "Summarizing": "Cervical spondylosis, or neck arthritis, is common with age. It results from the natural wear and tear of spinal discs, which stresses the neck joints and can lead to the formation of bone spurs. While it is often painless, it can cause symptoms such as neck pain, stiffness, and a reduced range of motion. It is typically diagnosed through imaging after symptoms appear.Symptoms include:Neck pain (may radiate to shoulders)Stiffness in neck musclesReduced range of motionTenderness in neck muscles",
+    "Prognosis": "While the degeneration is irreversible, the associated pain can significantly improve within 4-6 weeks with proper rehabilitation.If untreated, symptoms may persist for months or even years.",
+    "Treatment Strategy": "Treatment focuses on rehabilitation through massage, mobility exercises, and resistance training.Phase 1: Soft tissue mobilization for the neck, scapula, and thoracic region using gentle pressure to relieve pain.Phase 2: Neck and scapula stretches, cervical mobility drills, and isometric exercises.Phase 3: Resistance training to build neck strength, helping with long-term pain control.Note: If pain persists beyond 12 weeks, consider further evaluation by a specialist."
+  },
+  "Thoracic Outlet Syndrome (TOS)": {
+    "Summarizing": "Thoracic Outlet Syndrome (TOS) is a condition where nerves or blood vessels are compressed between your collarbone and first rib. It is often caused by repetitive motion, poor posture, or trauma. Symptoms can include pain, numbness, or weakness in the arm. In vascular cases, you may experience swelling or cold hands.Symptoms include:Pain in the neck, shoulder, or armNumbness or tingling in the fingersWeakness in the arm or handSwelling or coldness in the hand (in vascular cases)",
+    "Prognosis": "Most cases improve within 4-6 weeks with proper rehabilitation. However, severe vascular cases may require surgery.If untreated, symptoms may persist for months or even years.",
+    "Treatment Strategy": "Rehabilitation is the primary treatment, focusing on mobility, posture, and strengthening.Phase 1: Soft tissue mobilization and postural training.Phase 2: Nerve sliders and gentle stretches for the neck and shoulder.Phase 3: Advanced nerve tensioners and strengthening exercises for the shoulder and neck.Note: If you experience circulation issues, seek immediate medical attention, as vascular TOS may require surgery."
+  },
+  "Temporomandibular Disorder (TMD)": {
+    "Summarizing": "Temporomandibular Disorder (TMD) is a dysfunction of the jaw joint. It can be caused by various factors, including trauma, inflammation, overuse, teeth grinding, or even neck strain.Symptoms include:Jaw pain or tendernessClicking or popping sounds when moving the jawLimited range of motion in the jawHeadaches or ear discomfort",
+    "Prognosis": "For long-term relief, it is crucial to address the root cause, such as dental issues. Without this, symptoms may persist despite other treatments. Rehabilitation can provide significant help, but a dental evaluation is essential.If untreated, symptoms may persist for months or even years.",
+    "Treatment Strategy": "Treatment involves a combination of rehabilitation and dental interventions like splints.Phase 1: Soft tissue mobilization for the jaw and neck to relieve pain.Phase 2: Jaw mobility drills focused on controlled movement.Phase 3: Jaw strengthening exercises and continued neck work to prevent recurrence.Note: For severe cases, consult a dental or TMJ specialist for advanced imaging and treatment."
+  },
+  "Bicep Tendinopathy": {
+    "Summarizing": "LHB tendon irritation/degeneration.Causes: repetitive shoulder stress, abrupt arm extensions.Symptoms: front shoulder pain, weakness, clicking.Often with rotator cuff issues.",
+    "Prognosis": "Resolves in 6-12 weeks with rehab.Surgery rare (elite athletes/severe tears).",
+    "Treatment Strategy": "Rehab: tendon loading, shoulder/scapula mechanics.Phase 1: Soft tissue (elbow/pecs/scapula), passive stretches, isometrics (shoulder/rotator cuff).Phase 2: Active ROM, biceps curls, rotator cuff bands, partial floor press.Phase 3: Lateral/supinated raises, rotator cuff integration.Note: Specialist if pain >12-16 weeks or limits function."
+  },
+  "Frozen Shoulder": {
+    "Summarizing": "Pain, stiffness, mobility loss.Age 40-65, women, diabetes/thyroid.3 phases: freezing (2-9 mo), frozen (4-12 mo), thawing (12-24 mo).Trigger: injury/inflammation.",
+    "Prognosis": "Recovery ~6 mo (PT/injections). Untreated: 1-3 yr.",
+    "Treatment Strategy": "PT (mobility), meds, injections.Phase 1: PROM, table slides, isometrics.Phase 2: LLLD stretches, shoulder eccentrics.Phase 3: Strength exercises, partial ROM.Notes: Gradual remodeling, early strength training."
+  },
+  "Labral Tears & Dislocation": {
+    "Summarizing": "Labral rim damage (SLAP/Bankart).Causes: trauma, repetitive overhead motions.Symptoms: instability, apprehension, sharp pain.",
+    "Prognosis": "Non-traumatic: 8-12 weeks rehab. Traumatic/recurrent: surgery.",
+    "Treatment Strategy": "Rehab: dynamic stability, strength.Phase 1: Soft tissue, active ROM, isometrics.Phase 2: Avoid stretching, banded rows/presses, rotator cuff, lateral raises.Phase 3: Supinated biceps curls, D2 flexion, 90/90 ER raises.Notes: Surgery for recurrent, subscapularis (IR) strengthening key."
+  },
+  "Shoulder Impingement": {
+    "Summarizing": "Irritation under acromion.Structures: supraspinatus, biceps, bursa.Symptoms: pain overhead, sleeping on side.Causes: overuse, may involve bone spurs.",
+    "Prognosis": "Resolves 4-12 weeks rehab. Surgery for tears, spurs, failed treatment (>12 weeks).",
+    "Treatment Strategy": "Rehab: pain control, mobility, strength.Phase 1: Soft tissue, scapular mobility, isometrics.Phase 2: Rotator cuff strengthening, prone abduction, supraspinatus work.Phase 3: Eccentric loading, overhead stability, sport drills.Notes: Avoid aggravating positions, address scapular dyskinesia."
+  },
+  "Rotator Cuff Injury": {
+    "Summarizing": "4 muscles stabilize shoulder (supraspinatus, infraspinatus, teres minor, subscapularis).Causes: trauma, overuse, degeneration.",
+    "Prognosis": "Tendinopathy: 4-12 weeks rehab. Partial: up to 6 months. Full: surgery.",
+    "Treatment Strategy": "Rehab: pain control, mobility, strength.Phase 1: Soft tissue, isometrics, PROM.Phase 2: Thoracic/scapular mobility, AAROM, prone \"T\" raises.Phase 3: Rotator Cuff resistance (IR/ER), scapular strengthening, prone \"Y\" raises.Notes: Avoid overhead AROM early, post-op rehab similar, address compensatory patterns."
+  },
+  "Tennis Elbow (Lateral Epicondylalgia)": {
+    "Summarizing": "ECRB tendinopathy at lateral elbow.Causes: repetitive gripping, overuse, poor endurance.Symptoms: lateral elbow pain, tenderness, grip weakness.",
+    "Prognosis": "Resolves in 2-12 weeks with rehab. Chronic (>6 months) may need surgery.",
+    "Treatment Strategy": "Rehab: pain control, nerve mobility, loading, strength.Phase 1: Soft tissue, radial nerve sliders, pectoral mobilizations.Phase 2: Isometric/eccentric wrist extensions, active ROM.Phase 3: Heavy slow resistance, grip strengthening, sport/work drills.Notes: Avoid long-term brace, cortisone delays healing, surgery last resort."
+  },
+  "Golfers Elbow": {
+    "Summarizing": "Wrist/finger flexor tendinopathy at medial elbow.Causes: repetitive gripping, overuse, poor load management.Symptoms: medial elbow pain, tenderness, wrist flexion/pronation weakness.",
+    "Prognosis": "Resolves in 2-12 weeks with rehab. Chronic (>6 months) rarely needs surgery.",
+    "Treatment Strategy": "Rehab: pain control, neural mobility, tendon loading, strength.Phase 1: Soft tissue, median/ulnar nerve glides, pectoral mobilizations.Phase 2: Isometric/eccentric wrist flexions/pronations, active ROM.Phase 3: Heavy slow resistance, rotational drills, sport/work-specific grip.Notes: Avoid prolonged brace, cortisone discouraged, surgery after 12+ months failed rehab."
+  },
+  "Triceps Tendinopathy": {
+    "Summarizing": "Triceps tendon irritation at elbow.Causes: repetitive elbow extension, sudden training increases, poor load management.Symptoms: posterior elbow pain, tenderness, stiffness.",
+    "Prognosis": "Resolves in 2-12 weeks with load modification and rehab. Chronic (>3 months) may need advanced interventions.",
+    "Treatment Strategy": "Rehab: pain control, mobility, tendon loading, strength.Phase 1: Soft tissue (triceps/lats), thoracic mobility, isometric triceps.Phase 2: Eccentric push-downs, reverse raises, shoulder taps.Phase 3: Heavy slow resistance, compound movements (gradual), sport drills.Notes: Avoid full-range dips/push-ups early, address scapular/thoracic mobility, isometrics pain-free."
+  },
+  "Carpal Tunnel Syndrome (CTS)": {
+    "Summarizing": "Median nerve compression in wrist.Causes: pressure on nerve (swelling, inflammation). Often with repetitive hand use, pregnancy, diabetes.Symptoms: tingling/numbness in thumb/fingers, nighttime pain, grip weakness.",
+    "Prognosis": "Early (≤6 mo): 8-12 weeks conservative. Chronic (>6 mo): surgery may be needed. Poor if muscle atrophy/sensory loss.",
+    "Treatment Strategy": "Rehab: nerve mobility, symptom relief, posture, strength.Phase 1: Wrist splint, median nerve glides, soft tissue (pecs/flexors).Phase 2: Cervical posture, neck isometrics, wrist mobility with nerve flossing.Phase 3: Grip strengthening, wrist/finger eccentrics, thumb exercises.Notes: Night splinting first-line, steroids short-term, surgery 85-90% effective for refractory cases."
+  },
+  "Wrist Sprains": {
+    "Summarizing": "Ligament damage from trauma (FOOSH, impacts).Key: rule out fractures (radius/scaphoid), pain location indicates injury type (radial/ulnar), swelling shows severity.",
+    "Prognosis": "Grade I: 2-4 weeks. Grade II: 4-8 weeks. Grade III: 8-12+ weeks. Fractures add 2-4 weeks.",
+    "Treatment Strategy": "Rehab: protect, mobility, stability, strength.Phase 1: Bracing (short-term), soft tissue, AROM, PRICE (first 72h).Phase 2: Flexor/extensor stretches, isometrics, gripper, neuromuscular drills.Phase 3: Eccentric loading, rotational drills, weight-bearing progressions.Notes: Scaphoid fracture suspicion high, TFCC needs ulnar deviation precautions, early motion but avoid premature load."
+  },
+  "De Quervains": {
+    "Summarizing": "Inflammation of APL/EPB tendons.Radial wrist pain, aggravated by thumb use.Positive Finkelsteins test. Common in new mothers, laborers.",
+    "Prognosis": "Conservative: 4-6 weeks rehab. Severe/chronic: steroid injection. Surgery (rare) for >6 months symptoms.",
+    "Treatment Strategy": "Rehab: acute management, progressive loading, functional rehab.Phase 1: Thumb splint, soft tissue, gentle tendon glides.Phase 2: Resisted finger extension, thumb isometrics, wrist stabilization.Phase 3: Eccentric thumb work, grip strengthening, activity simulations.Notes: Finkelsteins test confirms, steroid injections 70-80% success, post-op rehab similar phases."
+  },
+  "Facet Joint Sprain": {
+    "Summarizing": "Zygapophyseal joint injury.Causes: sudden trauma (whiplash, lifting). Local spinal pain, restricted rotation/extension, referred pain (non-dermatomal).",
+    "Prognosis": "Uncomplicated: 4-6 weeks rehab. Chronic: facet arthropathy. Recurrent: core stabilization needed.",
+    "Treatment Strategy": "Rehab: pain management, mobility, stabilization.Phase 1: Soft tissue (paraspinals/QL/hips), gentle spinal mobility (cat-cow), activity modification.Phase 2: Segmental rotation mobilizations, thoracolumbar extension, neural flossing.Phase 3: Multifidus activation, anti-rotation core, progressive load (deadbugs/bird-dogs).Notes: Differentiate from disc pain (quadrant test), muscle relaxants short-term, chronic may need injections."
+  },
+  "Muscle Strains": {
+    "Summarizing": "Tears in low back muscles (erector spinae, multifidus, QL).Causes: overload, loaded flexion, rotational stress. Grades: I (mild), II (moderate), III (severe).",
+    "Prognosis": "Grade I: 2-3 weeks. Grade II: 3-6 weeks. Grade III: 8-12 weeks (rare). Recurrent: strength/control needed.",
+    "Treatment Strategy": "Rehab: protect, load, strengthen.Phase 1: Rest, soft tissue, pain-free mobility (cat-cow, tilts).Phase 2: Isometrics (bridges, extensions), eccentrics, neuromuscular re-education (deadbugs).Phase 3: Compound lifts (hip hinges), rotational stability (Pallof), power (kettlebell).Notes: Muscle relaxants impair control, address asymmetries, chronic needs fascial mobility."
+  },
+  "Non Specific Back Pain": {
+    "Summarizing": "Pain without identifiable structural pathology. 90-95% of back pain. Biopsychosocial factors, altered movement patterns.",
+    "Prognosis": "Acute: 4-6 weeks with movement. Subacute/chronic: multimodal (exercise/psychology). Poor: fear-avoidance, catastrophizing.",
+    "Treatment Strategy": "Rehab: pain modulation, motor control, resilience.Phase 1: Soft tissue, pain-free mobility, education (hurt vs harm).Phase 2: Glute activation, core bracing, graded exposure.Phase 3: Loaded movements, rotational stability, aerobic conditioning.Notes: Avoid passive modalities, address sleep/stress, prehab for recurrent."
+  },
+  "Sacroiliac (SI) Joint Pain": {
+    "Summarizing": "SI joint pain: mechanical/inflammatory. Unilateral low back/buttock pain. Triggers: trauma, pregnancy, hypermobility. Aggravated by single-leg load, sit-to-stand, prolonged sitting.",
+    "Prognosis": "Acute: 4-6 weeks stabilization. Pregnancy: 6-12 weeks postpartum. Chronic (>3mo): prolotherapy/RF ablation.",
+    "Treatment Strategy": "Rehab: pain modulation, motor control, integration.Phase 1: SI belt, soft tissue (glutes/piriformis), sciatic flossing.Phase 2: Pelvic clock, double-leg bridges, clamshells.Phase 3: Single-leg stance, rotational drills, sport loading.Notes: Diagnostic injections confirm, avoid aggressive manipulation, address gait asymmetries."
+  },
+  "Spondylolysis & Spondylolisthesis": {
+    "Summarizing": "Vertebral stress fractures (lysis) and slippage (listhesis). Common at L5-S1. Causes: hyperextension. Grades: I (<25%), II (25-50%), III/IV (>50%). Low back pain, no radiculopathy.",
+    "Prognosis": "Lysis/Grade I-II: 6-12 weeks activity mod. Progressive slippage: surgery (Gill).",
+    "Treatment Strategy": "Rehab: protect, stabilize, load.Phase 1: Activity mod, lumbar brace, hip/hamstring stretches.Phase 2: Avoid extension, core bracing (dead bug, planks), glute bridges.Phase 3: Anterior core (Pallof), partial ROM lifts, gradual sport return.Notes: SPECT for active lysis, bracing controversial, surgery for neuro deficits, Grade III+, failed rehab."
+  },
+  "Disc Herniations": {
+    "Summarizing": "Nucleus pulposus extrusion, L4-L5/L5-S1. Often asymptomatic. Symptomatic: radiculopathy, numbness, weakness. Causes: flexion/rotation under load.",
+    "Prognosis": "90% resolve conservatively (6-12 weeks). Surgery for cauda equina, progressive weakness, refractory pain (>3-4 months).",
+    "Treatment Strategy": "Rehab: neuroprotection, neuromuscular control, resilience.Phase 1: Directional preference exercises, nerve flossing, soft tissue (glutes/piriformis).Phase 2: Core stabilization, hip-dominant patterning, graded exposure.Phase 3: Loaded carries, rotational drills, sport/work reintegration.Notes: MRI not required initially, avoid prolonged sitting, surgery equal to PT at 1 year (faster relief)."
+  },
+  "Lumbar Stenosis": {
+    "Summarizing": "Narrowing of spinal canal/foramina. Causes: degeneration, disc bulges, osteophytes. Neurogenic claudication, relieved by flexion, rare before 50.",
+    "Prognosis": "Conservative: 70% improve (4-6 weeks). Surgery for neuro deficits, failed PT (>3 months), severe limitations.",
+    "Treatment Strategy": "Rehab: symptom relief, stabilization, resilience.Phase 1: Flexion exercises, cycling, nerve mobilization (slump).Phase 2: Anterior core, hip/extensor stretches, gait retraining.Phase 3: Endurance training, loaded carries (flexion), community walking.Notes: Avoid extension, surgery: laminectomy/spacers, pain-free walk distance prognostic."
+  },
+  "Sciatica (From Low Back)": {
+    "Summarizing": "Lumbar nerve root compression/irritation (L4-S1). Radiating leg pain, numbness, weakness. Causes: disc herniation, stenosis, piriformis syndrome.",
+    "Prognosis": "Acute: 70-80% resolve (4-6 weeks). Imaging for progressive weakness, bowel/bladder changes, night pain.",
+    "Treatment Strategy": "Rehab: neuroprotection, nerve mobility, functional integration.Phase 1: Centralization strategies, nerve flossing, soft tissue (glutes/piriformis).Phase 2: Progressive nerve mobilization (slump), directional exercises, core activation.Phase 3: Loaded hip hinging, dynamic stabilization (Pallof), gait retraining.Notes: Peripheralization/centralization guides exercises, traction short-term relief, surgery for cauda equina/progressive deficits."
+  },
+  "Osteoarthritis": {
+    "Summarizing": "Hip OA: cartilage degeneration, joint narrowing, osteophytes. Pain: groin > lateral hip. Stiffness, reduced internal rotation. Risks: age >50, obesity, trauma.",
+    "Prognosis": "Non-surgical: maintain function years. THA: night pain, failed rehab (>3 months), severe radiographic changes.",
+    "Treatment Strategy": "Rehab: pain modulation, strength/mobility, resilience.Phase 1: Aquatic therapy, capsular stretches, soft tissue (TFL, iliopsoas).Phase 2: Non-compressive strength, partial weight-bearing, cycling.Phase 3: Progressive resistance, gait retraining, community walking.Notes: Avoid end-range stretch, prehab for THA, modify activities (swim/cycle instead of running)."
+  },
+  "Hip Impingement": {
+    "Summarizing": "FAI: abnormal hip contact. Types: cam (♂), pincer (♀), mixed. Groin pain (FADIR test). Common in athletes. Precedes labral tears.",
+    "Prognosis": "Conservative: 60-70% effective with activity mod. Surgery for refractory pain (>3 months), labral tears, high-demand athletes.",
+    "Treatment Strategy": "Rehab: symptom control, dynamic control, sport prep.Phase 1: Activity mod, soft tissue, isometric strengthening (glute med, rotators).Phase 2: Multiplanar strength, ROM (impingement-free), squat/deadlift retraining.Phase 3: Eccentric loading, impact drills, gradual sport return.Notes: X-ray/MRI imaging, arthroscopy for mechanical symptoms, lifetime activity modifications."
+  },
+  "Labral Tear": {
+    "Summarizing": "Fibrocartilage damage at hip rim (anterosuperior). Causes: microtrauma, acute trauma, FAI. Catching/locking, groin pain, pain with FADIR/FABER.",
+    "Prognosis": "Conservative: 60-70% success (6-8 weeks). Surgery for mechanical symptoms, failed PT (>3 months), concurrent FAI.",
+    "Treatment Strategy": "Rehab: symptom control, dynamic stability, functional integration.Phase 1: Activity mod, isometric strengthening (glute med/rotators), aquatic therapy.Phase 2: Multiplanar resistance, partial ROM strengthening, neuromuscular control.Phase 3: Sport drills, eccentric hamstring/glute work, gradual impact return.Notes: MRI arthrogram gold standard, arthroscopy 85% success, maintain hip external rotation strength."
+  },
+  "Ligament Tear (ACL, PCL, LCL, MCL)": {
+    "Summarizing": "Knee ligament tears disrupt stability. ACL: anterior translation/rotation. PCL: posterior translation. MCL: valgus stress. LCL: varus stress. ACL: Lachman/Lever, \"pop\". PCL: posterior sag. MCL: medial tenderness, valgus instability. LCL: lateral gapping.",
+    "Prognosis": "MCL/LCL: 6-8 weeks non-op. ACL: 3-6 months prehab. PCL: conservative (grade I-II), surgery (grade III).",
+    "Treatment Strategy": "Rehab: acute management, neuromuscular control, strengthening.Phase 1: PRICE, ROM (heel slides), quad activation (SLR, NMES).Phase 2: Progressive loading (mini squats), perturbation training, hip patterning (bridges).Phase 3: Eccentric loading, plyometrics, agility drills.Notes: Bracing for return-to-sport. Surgery: ACL (high-demand), PCL (grade III), MCL/LCL (rare). Return: >90% LSI, no effusion, sport progression."
+  },
+  "Meniscus Tear": {
+    "Summarizing": "Damage to knee shock absorbers. Medial more common. Traumatic (young), degenerative (>40yo). Red-zone (vascular), white-zone (avascular). Joint line tenderness, locking, effusion.",
+    "Prognosis": "Red-zone: 8-12 weeks conservative. White-zone: debridement. Surgery: young athletes, mechanical block, failed PT (3 months).",
+    "Treatment Strategy": "Rehab: acute protection, dynamic stability, functional integration.Phase 1: ROM (heel slides), quad activation (SLR, NMES), partial weight-bearing.Phase 2: Progressive loading (mini squats), single-leg balance, hip strengthening.Phase 3: Eccentric loading, impact drills, sport agility.Notes: MRI overuse, surgery: repair (red-zone), meniscectomy (white-zone), maintain quad/hamstring ratio."
+  },
+  "KneeCap Dislocation": {
+    "Summarizing": "Lateral patellar displacement. Causes: valgus/external rotation. Risks: female adolescents, trochlear dysplasia, MPFL insufficiency. Signs: deformity, medial tenderness, apprehension test.",
+    "Prognosis": "First-time: 60-70% rehab success. Recurrent: 40% surgery. Poor: osteochondral fracture, high dysplasia, patella alta.",
+    "Treatment Strategy": "Rehab: acute protection, dynamic control, sport prep.Phase 1: Immobilization, quad isometrics (VMO), pain-free ROM.Phase 2: Progressive resistance, hip/core strength, gait retraining.Phase 3: Plyometrics, sport agility, bracing for return.Notes: MRI essential, surgery: MPFL reconstruction, tibial osteotomy. Recurrent risk: 15-44%."
+  },
+  "Ankle Sprain": {
+    "Summarizing": "Ligament injury, lateral most common (ATFL, CFL, PTFL). Mechanism: plantarflexion/inversion. Grades: I (mild), II (partial), III (complete).",
+    "Prognosis": "Grade I: 2-4 weeks.Grade II: 4-8 weeks. Grade III: 8-16 weeks.Chronic instability: 20-40% without rehab.",
+    "Treatment Strategy": "Rehab: acute protection, dynamic stability, functional integration.Phase 1: POLICE, ankle pumps, pain-free ROM.Phase 2: Resistance bands, calf raises, proprioception training.Phase 3: Plyometrics, sport agility, eccentric loading (heel drops).Notes: Ottawa Rules for X-ray, bracing reduces recurrence, surgery for persistent instability, peroneal dislocation, osteochondral lesions."
+  }
+}
