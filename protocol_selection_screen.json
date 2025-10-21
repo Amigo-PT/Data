@@ -1,0 +1,354 @@
+[
+  {
+    "protocol": "Head & Neck Protocols",
+    "name": "Cervicogenic Headache",
+    "icon": "Icons.psychology_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Headaches originating from the neck"
+  },
+  {
+    "protocol": "Head & Neck Protocols",
+    "name": "General Neck Pain & Stiffness",
+    "icon": "Icons.accessibility_new_rounded",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Common discomfort and limited movement"
+  },
+  {
+    "protocol": "Head & Neck Protocols",
+    "name": "Neck Strains & Sprains (Whiplash)",
+    "icon": "Icons.healing_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Injury due to sudden neck movement"
+  },
+  {
+    "protocol": "Head & Neck Protocols",
+    "name": "Cervical Spondylosis (Arthritis)",
+    "icon": "Icons.support_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Age-related wear and tear in neck discs"
+  },
+  {
+    "protocol": "Head & Neck Protocols",
+    "name": "Thoracic Outlet Syndrome (TOS)",
+    "icon": "Icons.airline_seat_recline_normal",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Compression of nerves or blood vessels"
+  },
+  {
+    "protocol": "Head & Neck Protocols",
+    "name": "Temporomandibular Disorder (TMD)",
+    "icon": "Icons.face_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Jaw joint and muscle issues"
+  },
+  {
+    "protocol": "Shoulder Protocols",
+    "name": "Bicep Tendinopathy",
+    "icon": "Icons.fitness_center_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Inflammation of bicep tendon"
+  },
+  {
+    "protocol": "Shoulder Protocols",
+    "name": "Frozen Shoulder",
+    "icon": "Icons.ac_unit_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Stiffness and pain in the shoulder joint"
+  },
+  {
+    "protocol": "Shoulder Protocols",
+    "name": "Labral Tears & Dislocation",
+    "icon": "Icons.warning_amber_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Injury to the shoulder socket rim"
+  },
+  {
+    "protocol": "Shoulder Protocols",
+    "name": "Shoulder Impingement",
+    "icon": "Icons.sports_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Tendons rubbing against shoulder bone"
+  },
+  {
+    "protocol": "Shoulder Protocols",
+    "name": "Rotator Cuff Injury",
+    "icon": "Icons.rotate_right_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Tear in shoulder tendons"
+  },
+  {
+    "protocol": "Elbow Protocols",
+    "name": "Tennis Elbow (Lateral Epicondylalgia)",
+    "icon": "Icons.sports_tennis_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Pain on the outside of the elbow"
+  },
+  {
+    "protocol": "Elbow Protocols",
+    "name": "Golfers Elbow",
+    "icon": "Icons.sports_golf_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Pain on the inside of the elbow"
+  },
+  {
+    "protocol": "Elbow Protocols",
+    "name": "Triceps Tendinopathy",
+    "icon": "Icons.fitness_center_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Inflammation of triceps tendon"
+  },
+  {
+    "protocol": "Wrist Protocols",
+    "name": "Carpal Tunnel Syndrome (CTS)",
+    "icon": "Icons.touch_app_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Nerve compression in the wrist"
+  },
+  {
+    "protocol": "Wrist Protocols",
+    "name": "Wrist Sprains",
+    "icon": "Icons.list_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Ligament injury in the wrist"
+  },
+  {
+    "protocol": "Wrist Protocols",
+    "name": "De Quervains",
+    "icon": "Icons.back_hand_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Tendon inflammation in the wrist"
+  },
+  {
+    "protocol": "Back Protocols",
+    "name": "Facet Joint Sprain",
+    "icon": "Icons.accessibility_new_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Injury to small joints in the spine"
+  },
+  {
+    "protocol": "Back Protocols",
+    "name": "Muscle Strains",
+    "icon": "Icons.emergency_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Overstretching or tearing of muscles"
+  },
+  {
+    "protocol": "Back Protocols",
+    "name": "Non Specific Back Pain",
+    "icon": "Icons.back_hand_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "General back discomfort without specific cause"
+  },
+  {
+    "protocol": "Back Protocols",
+    "name": "Sacroiliac (SI) Joint Pain",
+    "icon": "Icons.join_inner_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Pain in the joint connecting spine and pelvis"
+  },
+  {
+    "protocol": "Back Protocols",
+    "name": "Spondylolysis & Spondylolisthesis",
+    "icon": "Icons.insights_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Stress fracture or slippage of vertebrae"
+  },
+  {
+    "protocol": "Back Protocols",
+    "name": "Disc Herniations",
+    "icon": "Icons.disc_full_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Bulging or ruptured spinal discs"
+  },
+  {
+    "protocol": "Back Protocols",
+    "name": "Lumbar Stenosis",
+    "icon": "Icons.compress_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Narrowing of the spinal canal in lower back"
+  },
+  {
+    "protocol": "Back Protocols",
+    "name": "Sciatica (From Low Back)",
+    "icon": "Icons.timeline_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Pain radiating along the sciatic nerve"
+  },
+  {
+    "protocol": "Hip Protocols",
+    "name": "Osteoarthritis",
+    "icon": "Icons.elderly_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Degenerative joint disease in the hip"
+  },
+  {
+    "protocol": "Hip Protocols",
+    "name": "Hip Impingement",
+    "icon": "Icons.sports_martial_arts_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Femur and hip socket rubbing abnormally"
+  },
+  {
+    "protocol": "Hip Protocols",
+    "name": "Labral Tear",
+    "icon": "Icons.broken_image_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Tear in the cartilage surrounding the hip socket"
+  },
+  {
+    "protocol": "Knee Protocols",
+    "name": "Ligament Tear (ACL, PCL, LCL, MCL)",
+    "icon": "Icons.sports_soccer_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Injury to knee ligaments"
+  },
+  {
+    "protocol": "Knee Protocols",
+    "name": "Meniscus Tear",
+    "icon": "Icons.sports_basketball_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Tear in the knee's cartilage"
+  },
+  {
+    "protocol": "Knee Protocols",
+    "name": "KneeCap Dislocation",
+    "icon": "Icons.sports_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Patella moving out of place"
+  },
+  {
+    "protocol": "Ankle Protocols",
+    "name": "Ankle Sprain",
+    "icon": "Icons.directions_run_outlined",
+    "color": "const Color(0xFF64B5F6)",
+    "gradient": [
+      "const Color(0xFF64B5F6)",
+      "const Color(0xFF42A5F5)"
+    ],
+    "description": "Ligament injury in the ankle"
+  }
+]
