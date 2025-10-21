@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Stroke Rehabilitation",
+    "icon": "Icons.psychology_outlined",
+    "color": "0xFF8E24AA",
+    "gradient": [
+      "0xFF8E24AA",
+      "0xFF7B1FA2"
+    ],
+    "description": "Post-stroke recovery protocols"
+  },
+  {
+    "name": "Parkinson's Disease",
+    "icon": "Icons.elderly_outlined",
+    "color": "0xFF8E24AA",
+    "gradient": [
+      "0xFF8E24AA",
+      "0xFF7B1FA2"
+    ],
+    "description": "Movement disorder management"
+  },
+  {
+    "name": "Multiple Sclerosis",
+    "icon": "Icons.scatter_plot_outlined",
+    "color": "0xFF8E24AA",
+    "gradient": [
+      "0xFF8E24AA",
+      "0xFF7B1FA2"
+    ],
+    "description": "Autoimmune neurological condition"
+  },
+  {
+    "name": "Spinal Cord Injury",
+    "icon": "Icons.accessibility_new_outlined",
+    "color": "0xFF8E24AA",
+    "gradient": [
+      "0xFF8E24AA",
+      "0xFF7B1FA2"
+    ],
+    "description": "Spinal trauma rehabilitation"
+  },
+  {
+    "name": "Peripheral Neuropathy",
+    "icon": "Icons.cable_outlined",
+    "color": "0xFF8E24AA",
+    "gradient": [
+      "0xFF8E24AA",
+      "0xFF7B1FA2"
+    ],
+    "description": "Nerve damage treatment"
+  },
+  {
+    "name": "Traumatic Brain Injury",
+    "icon": "Icons.emergency_outlined",
+    "color": "0xFF8E24AA",
+    "gradient": [
+      "0xFF8E24AA",
+      "0xFF7B1FA2"
+    ],
+    "description": "Head trauma recovery"
+  },
+  {
+    "name": "Alzheimer's Disease",
+    "icon": "Icons.memory_outlined",
+    "color": "0xFF8E24AA",
+    "gradient": [
+      "0xFF8E24AA",
+      "0xFF7B1FA2"
+    ],
+    "description": "Cognitive decline management"
+  },
+  {
+    "name": "Epilepsy Management",
+    "icon": "Icons.waves_outlined",
+    "color": "0xFF8E24AA",
+    "gradient": [
+      "0xFF8E24AA",
+      "0xFF7B1FA2"
+    ],
+    "description": "Seizure disorder protocols"
+  }
+]
