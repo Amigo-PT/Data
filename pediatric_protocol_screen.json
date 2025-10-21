@@ -1,0 +1,57 @@
+[
+  {
+    "protocol": "Pediatric Protocols",
+    "name": "Developmental Delay",
+    "icon": "Icons.child_care_rounded",
+    "color": "const Color(0xFFF5DEB3)",
+    "gradient": [
+      "const Color(0xFFF5DEB3)",
+      "const Color(0xFFFF7043)"
+    ],
+    "description": "Early intervention therapy"
+  },
+  {
+    "protocol": "Pediatric Protocols",
+    "name": "Cerebral Palsy",
+    "icon": "Icons.child_care_rounded",
+    "color": "const Color(0xFFF5DEB3)",
+    "gradient": [
+      "const Color(0xFFF5DEB3)",
+      "const Color(0xFFFF7043)"
+    ],
+    "description": "Movement & posture support"
+  },
+  {
+    "protocol": "Pediatric Protocols",
+    "name": "Torticollis",
+    "icon": "Icons.child_care_rounded",
+    "color": "const Color(0xFFF5DEB3)",
+    "gradient": [
+      "const Color(0xFFF5DEB3)",
+      "const Color(0xFFFF7043)"
+    ],
+    "description": "Neck muscle stretching"
+  },
+  {
+    "protocol": "Pediatric Protocols",
+    "name": "Down Syndrome",
+    "icon": "Icons.child_care_rounded",
+    "color": "const Color(0xFFF5DEB3)",
+    "gradient": [
+      "const Color(0xFFF5DEB3)",
+      "const Color(0xFFFF7043)"
+    ],
+    "description": "Comprehensive development"
+  },
+  {
+    "protocol": "Pediatric Protocols",
+    "name": "Plagiocephaly",
+    "icon": "Icons.child_care_rounded",
+    "color": "const Color(0xFFF5DEB3)",
+    "gradient": [
+      "const Color(0xFFF5DEB3)",
+      "const Color(0xFFFF7043)"
+    ],
+    "description": "Head shape correction"
+  }
+]
