@@ -1,0 +1,57 @@
+[
+  {
+    "protocol": "Women's Health Protocols",
+    "name": "Pelvic Floor Dysfunction",
+    "icon": "Icons.pregnant_woman_rounded",
+    "color": "Color(0xFFDDA0DD)",
+    "gradient": [
+      "Color(0xFFDDA0DD)",
+      "Color(0xFFE8B8E8)"
+    ],
+    "description": "Exercises to strengthen pelvic muscles"
+  },
+  {
+    "protocol": "Women's Health Protocols",
+    "name": "Diastasis Recti",
+    "icon": "Icons.pregnant_woman_rounded",
+    "color": "Color(0xFFDDA0DD)",
+    "gradient": [
+      "Color(0xFFDDA0DD)",
+      "Color(0xFFE8B8E8)"
+    ],
+    "description": "Management of abdominal muscle separation"
+  },
+  {
+    "protocol": "Women's Health Protocols",
+    "name": "Postpartum Recovery",
+    "icon": "Icons.pregnant_woman_rounded",
+    "color": "Color(0xFFDDA0DD)",
+    "gradient": [
+      "Color(0xFFDDA0DD)",
+      "Color(0xFFE8B8E8)"
+    ],
+    "description": "Post-childbirth rehabilitation"
+  },
+  {
+    "protocol": "Women's Health Protocols",
+    "name": "Urinary Incontinence",
+    "icon": "Icons.pregnant_woman_rounded",
+    "color": "Color(0xFFDDA0DD)",
+    "gradient": [
+      "Color(0xFFDDA0DD)",
+      "Color(0xFFE8B8E8)"
+    ],
+    "description": "Bladder control improvement strategies"
+  },
+  {
+    "protocol": "Women's Health Protocols",
+    "name": "Pudendal Neuralgia",
+    "icon": "Icons.pregnant_woman_rounded",
+    "color": "Color(0xFFDDA0DD)",
+    "gradient": [
+      "Color(0xFFDDA0DD)",
+      "Color(0xFFE8B8E8)"
+    ],
+    "description": "Nerve pain management"
+  }
+]
