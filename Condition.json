@@ -1,14 +1,8 @@
 {
-  "Cervicogenic_Headache": {
-    "Summary": "Head pain originating from the **Cervical Spine** (specifically **C1-C3** segments). Symptoms stem from **musculoskeletal dysfunction** in the upper cervical joints and muscles, often triggered by chronic stress, static postures, or poor **cervical posture**. Symptoms include: **Unilateral Head Pain**, **Cervical Stiffness**, **Palpable Tenderness** of neck musculature, and **Pain with Active Range of Motion**.",
-    "Prognosis": "This condition typically **resolves within a few weeks** with adherence to postural correction and a structured **rehabilitation program**. Symptoms may become **persistent or chronic** if conservative treatment is not followed.",
-    "Treatment_Strategy": {
-      "Core_Focus": "Management is centered on structured **Physical Rehabilitation** organized into phases:",
-      "Phase_1_Pain_Relief": "**Soft Tissue Mobilization** (e.g., suboccipital release, self-myofascial release) and manual therapy techniques.",
-      "Phase_2_Mobility_Restoration": "**Mobility and Flexibility Drills**, such as **Cervical Retraction** ('Chin Tucks') and **Isometric Holds**.",
-      "Phase_3_Strengthening": "**Progressive Strengthening** with resistance training to build long-term stability and endurance.",
-      "Note": "**Nerve Blocks** or **Surgical Intervention** may be considered in severe, refractory cases that fail conservative management.",
-    }
+  "Cervicogenic Headache": {
+    "Summarizing": "Head pain originating from the **Cervical Spine** (specifically **C1-C3** segments). Symptoms arise from **musculoskeletal dysfunction** in the upper cervical joints and muscles, often precipitated by chronic stress, sustained static postures, or poor **cervical posture**. Symptoms include: **Unilateral head pain**, **Cervical stiffness**, **Palpable tenderness** of neck musculature, and **Pain with Active Cervical Range of Motion**.",
+    "Prognosis": "This condition typically **resolves within a few weeks** with adherence to postural correction and a structured **rehabilitation program**. Symptoms may become **persistent or chronic** if left untreated.",
+    "Treatment Strategy": "Management is centered on **physical rehabilitation**, structured into phases: **Phase 1: Soft tissue mobilization** (e.g., suboccipital release, self-myofascial release, work on levator scapulae and trapezius). **Phase 2: Mobility and flexibility drills** (**Cervical retraction** or 'chin tucks', **Isometric holds**). **Phase 3: Progressive strengthening** with resistance training. Note: **Nerve blocks** or **surgical intervention** may be considered in severe, refractory cases."
   },
   "General Neck Pain & Stiffness": {
     "Summarizing": "A highly prevalent condition characterized by **non-specific cervicalgia** and reduced **Cervical Range of Motion (CROM)**. Often classified as **non-specific mechanical neck pain**, where a single structural lesion is absent, and the pain may be chronic. Symptoms include: **Cervical pain** (potentially radiating to the shoulders), **Muscular hypertonicity** in the neck, **Reduced CROM**, and **Muscular tenderness**.",
