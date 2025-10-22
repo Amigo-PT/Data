@@ -1,8 +1,8 @@
 {
   "Cervicogenic_Headache": {
-    "Summary": "Head pain originating from the **Cervical Spine** (specifically **C1-C3** segments). Symptoms stem from **musculoskeletal dysfunction** in the upper cervical joints and muscles, often triggered by chronic stress, static postures, or poor **cervical posture**. Symptoms include: **Unilateral Head Pain**, **Cervical Stiffness**, **Palpable Tenderness** of neck musculature, and **Pain with Active Range of Motion**.",
+    "Summarizing": "Head pain originating from the **Cervical Spine** (specifically **C1-C3** segments). Symptoms stem from **musculoskeletal dysfunction** in the upper cervical joints and muscles, often triggered by chronic stress, static postures, or poor **cervical posture**. Symptoms include: **Unilateral Head Pain**, **Cervical Stiffness**, **Palpable Tenderness** of neck musculature, and **Pain with Active Range of Motion**.",
     "Prognosis": "This condition typically **resolves within a few weeks** with adherence to postural correction and a structured **rehabilitation program**. Symptoms may become **persistent or chronic** if conservative treatment is not followed.",
-    "Treatment_Strategy": {
+    "Treatment Strategy": {
       "Core_Focus": "Management is centered on structured **Physical Rehabilitation** organized into phases:",
       "Phase_1_Pain_Relief": "**Soft Tissue Mobilization** (e.g., suboccipital release, self-myofascial release) and manual therapy techniques.",
       "Phase_2_Mobility_Restoration": "**Mobility and Flexibility Drills**, such as **Cervical Retraction** ('Chin Tucks') and **Isometric Holds**.",
