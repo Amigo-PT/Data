@@ -78,5 +78,15 @@
       "0xFF7B1FA2"
     ],
     "description": "Seizure disorder protocols"
+  },
+   {
+    "name": "test",
+    "icon": "Icons.waves_outlined",
+    "color": "0xFF8E24AA",
+    "gradient": [
+      "0xFF8E24AA",
+      "0xFF7B1FA2"
+    ],
+    "description": "Seizure disorder protocols"
   }
 ]
