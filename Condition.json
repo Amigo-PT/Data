@@ -1,13 +1,13 @@
 {
   "Cervicogenic Headache": {
-    "Summarizing": "Head pain originating from the **Cervical Spine** (specifically **C1-C3** segments). Symptoms stem from **musculoskeletal dysfunction** in the upper cervical joints and muscles, often triggered by chronic stress, static postures, or poor **cervical posture**. Symptoms include: **Unilateral Head Pain**, **Cervical Stiffness**, **Palpable Tenderness** of neck musculature, and **Pain with Active Range of Motion**.",
-    "Prognosis": "This condition typically **resolves within a few weeks** with adherence to postural correction and a structured **rehabilitation program**. Symptoms may become **persistent or chronic** if left untreated.",
-   "Treatment Strategy": {
-      "Core_Focus": "Management is centered on structured **Physical Rehabilitation** organized into phases:",
-      "Phase_1_Pain_Relief": "**Soft Tissue Mobilization** (e.g., suboccipital release, self-myofascial release) and manual therapy techniques.",
-      "Phase_2_Mobility_Restoration": "**Mobility and Flexibility Drills**, such as **Cervical Retraction** ('Chin Tucks') and **Isometric Holds**.",
-      "Phase_3_Strengthening": "**Progressive Strengthening** with resistance training to build long-term stability and endurance.",
-      "Note": "**Nerve Blocks** or **Surgical Intervention** may be considered in severe, refractory cases that fail conservative management."
+    "Summarizing": "Head pain originating from the Cervical Spine (especially C1–C3).\n\nCommon causes: musculoskeletal dysfunction, static postures, poor cervical alignment.\n\nMain symptoms:\n- Unilateral head pain\n- Cervical stiffness\n- Palpable tenderness\n- Pain with active motion.",
+    "Prognosis": "Usually resolves within a few weeks with posture correction and rehab.\nIf untreated, may become chronic.",
+    "Treatment Strategy": {
+      "Core_Focus": "Structured into 3 phases:\n",
+      "Phase_1_Pain_Relief": "Phase 1 – Pain Relief: Soft tissue mobilization, manual therapy.",
+      "Phase_2_Mobility_Restoration": "Phase 2 – Mobility Restoration: Stretching, cervical retraction, isometrics.",
+      "Phase_3_Strengthening": "Phase 3 – Strengthening: Resistance training for stability.",
+      "Note": "Note: Severe cases → consider medical referral or nerve block."
     }
   },
   "General Neck Pain & Stiffness": {
